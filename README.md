@@ -6,6 +6,10 @@
 
 <a href="#Project Goals">Project Goals</a>
 
+<a href="#Queries and Analysis ">Queries and Analysis </a>
+
+<a href="#Technology Stack ">Technology Stack </a>
+
 ## Project Overview 🎯
 
 This ‘Medical Data History’ project discusses about history of patients, doctors and their diagnosis in the provinces of Canada. With all the data’s regarding patients and doctors we need to explore relevant queries so that we can find some valuable insights based on their history. SQL is used in this project for all the ‘data interpretations and findings. 
