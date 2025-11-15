@@ -121,9 +121,5 @@ Language: SQL (Structured Query Language)
 
 Tool: My SQL Workbench
 
-## Contact 🤝
-
-👤 GitHub:<a href="#SRAVANI BHAVANASI"> SRAVANI BHAVANASI</a>  👔 LinkedIn: <a href="#SRAVANI BHAVANASI"> SRAVANI BHAVANASI</a> 📧 Email: <a href="#bsravanibhavanasi@gmail.com"> bsravanibhavanasi@gmail.com </a>
-
 
 
